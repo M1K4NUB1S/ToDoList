@@ -1,11 +1,17 @@
 {
-  "name": "todolist2",
+  "name": "todolist",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.2"
+    "react-icons": "^3.7.0",
+    "react-router-dom": "^5.1.0",
+    "react-scripts": "3.1.2",
+    "uniqueid": "^1.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
